@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     // Install Ruby dependencies
-                    sh 'gem install bundler'
+                    sh 'gem install bundler -v 2.5.4'
                     sh 'bundle install'
                 }
             }
