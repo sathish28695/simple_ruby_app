@@ -1,1 +1,1 @@
-- Simple application to test the Jenkins CI
+- Simple application to test the Jenkins CI PR
